@@ -7,6 +7,10 @@
 77777777
 88888888
 aaaaaa
+<<<<<<< HEAD
 xxxx
+=======
+bbbbbbbbbbb
+>>>>>>> 483b12b1d93f33ae3b147c3acd2c6b3f29320f1b
 c'c'c'c
 aaaaaaaaaa
